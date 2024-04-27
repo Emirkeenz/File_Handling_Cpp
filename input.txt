@@ -1,0 +1,1 @@
+{"age":2,"brand":"Porsche","mileage":135000.0,"price":20000.0}
